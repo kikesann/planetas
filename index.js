@@ -14,7 +14,7 @@ app.get('/sistema-solar',(req,res) => {
 });
 
 
-
+// Este es un comentario de prueba
 
 app.get('/mercurio',(req,res) => {
      res.render('planetas/mercurio');   
